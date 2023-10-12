@@ -98,7 +98,7 @@ ps -ef|grep nginx`
     501 45091 44114   0  7:00下午 ttys006    0:00.00 grep --color=auto --exclude-dir=.bzr --exclude-dir=CVS --exclude-dir=.git --exclude-dir=.hg --exclude-dir=.svn nginx
 
 
-可以看到也正常启动起来了。
+可以看到也正常启动起来了。  
 mac中默认的路径
 
     /usr/local/etc/nginx/nginx.conf （配置文件路径）
